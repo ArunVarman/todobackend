@@ -12,5 +12,5 @@ __pycache__
 # Miscellaneous
 .DS_Store
 
-#Ignore virtualenv file
+#Ignore virtualenv
 todoenv
